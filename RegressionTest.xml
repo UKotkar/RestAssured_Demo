@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+	<test name="Test">
+		<classes>
+			<class name="pk_spreecom.GetDefaultCountry" />
+			<class name="pk_spreecom.CreateAddressUsingUtilFunction" />
+			<class name="pk_graphql.Test_GraphQL" />
+		</classes>
+	</test> <!--
+	Test -->
+</suite> <!--
+Suite -->
